@@ -20,7 +20,7 @@ http://weatherforecast.northeurope.cloudapp.azure.com:8080/api/swagger-ui/index.
 ## Setting up :rocket:
 1. Clone the repository:
 ```
-git clone https://github.com/BibusUkraine/weather-forecast-api.git
+git clone https://github.com/BibusUkraine/weather-forecast-app.git
 ```
 2. Up services:
 ```
