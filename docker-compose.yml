@@ -6,8 +6,8 @@ services:
       dockerfile: Dockerfile
     ports:
       - '5173:5173'
-    depends_on: weather-forecasta-api
-  weather-forecasta-api:
+    depends_on: weather-forecast-api
+  weather-forecast-api:
     build:
       context: ./weather-forecast-api
       dockerfile: Dockerfile
