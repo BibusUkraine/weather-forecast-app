@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\client\ForecastAIClient.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\service\impl\WeatherServiceImpl.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\service\WeatherService.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\controller\WeatherController.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\payload\response\client\CoordinatesClientResponse.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\WeatherForecastApiApplication.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\payload\response\CurrentWeatherResponse.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\payload\response\client\WeatherDailyHistoryClientResponse.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\client\WeatherClient.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\payload\response\WeeklyControlResponse.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\client\WeatherDailyHistoryClient.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\payload\response\client\CurrentWeatherClientResponse.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\payload\request\WeatherRequest.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\client\WeatherHourlyHistoryClient.java
+C:\Users\Dima\Desktop\weather-forecast-api\src\main\java\com\bibusukraine\weatherforecastapi\payload\response\client\WeatherHourlyHistoryClientResponse.java

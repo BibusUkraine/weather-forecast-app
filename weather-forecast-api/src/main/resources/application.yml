@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /api
+  port: 8080
+
+openweathermap:
+  api-key: 9861d331a2f3e2f5584c0ba0f3cceb51
